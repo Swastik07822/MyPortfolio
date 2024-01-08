@@ -1,0 +1,70 @@
+#education > h2 > img{
+    box-shadow: 0 4px 8px 0 rgb(255, 255, 255), 0 6px 20px 0 rgb(255, 255, 255);
+    background-color: white;
+    height: 70px;
+    width: 70px;
+}
+#experience > h2> img {
+
+    box-shadow: 0 4px 8px 0 rgb(255, 255, 255), 0 6px 20px 0 rgb(255, 255, 255);
+    background-color: white;
+    height: 70px;
+    width: 70px;
+
+}
+#exp{
+    box-shadow: 0 4px 8px 0 rgb(255, 255, 255), 0 6px 20px 0 rgb(255, 255, 255);
+    background-color: white;
+    height: 70px;
+    width: 70px;
+}
+.fimg{
+    
+    background: white;
+
+    width: 35px;
+    height: 35px;
+    border-radius: 0.75rem;
+
+}
+#section-one{
+    display: flex;
+
+    background: url("../IMAGES/bg.jpg");
+    
+    color: rgb(255, 255, 255);
+
+   
+}
+#section-five{
+
+    color: antiquewhite;
+    background: url("../IMAGES/bg.jpg");
+    
+   
+
+
+}
+ 
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+
+
+#feature-one{
+
+    background-color: white;
+    border-radius: 40%;
+    
+    box-shadow: 0 4px 8px 0 rgb(255, 255, 255), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#resume{
+    color: antiquewhite;
+}
+
+
+
