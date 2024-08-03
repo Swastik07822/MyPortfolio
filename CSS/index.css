@@ -90,7 +90,7 @@
     width: 500px;
     height: 250px;
     margin-right: 10px;
-    background-color: blue;
+    background-color: rgba(4, 4, 247, 0.95);
     color: white;
     display: flex;
     justify-content: center;
